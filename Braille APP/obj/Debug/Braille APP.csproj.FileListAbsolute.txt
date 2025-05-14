@@ -1,0 +1,15 @@
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille APP.csproj.AssemblyReference.cache
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille_APP.Braille.resources
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille_APP.Properties.Resources.resources
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille_APP.Tradução_Braille.resources
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille APP.csproj.GenerateResource.cache
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\bin\Debug\Braille APP.exe.config
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\bin\Debug\Braille APP.exe.manifest
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\bin\Debug\Braille APP.application
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\bin\Debug\Braille APP.exe
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\bin\Debug\Braille APP.pdb
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille APP.csproj.CoreCompileInputs.cache
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille APP.exe.manifest
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille APP.application
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille APP.exe
+C:\Users\João Teles\OneDrive\Documentos\Projects\BrailleApp\Braille APP\obj\Debug\Braille APP.pdb
