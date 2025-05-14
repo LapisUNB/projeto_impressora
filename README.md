@@ -32,7 +32,7 @@ Para executar e desenvolver este projeto, você precisará ter os seguintes soft
 
 1.  **Clonar o Repositório (se aplicável):**
     ```bash
-    git clone [[https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)](https://github.com/LapisUNB/projeto_impressora.git)
+    git clone (https://github.com/LapisUNB/projeto_impressora.git)
     cd projeto_impressora
     ```
 
